@@ -1,5 +1,5 @@
 {
-    "name": "yedf/dtmcli-php",
+    "name": "zenghaiyang/dtmcli-php",
     "type": "library",
     "require": {
         "ext-json": "*",
