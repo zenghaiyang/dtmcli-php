@@ -3,7 +3,7 @@
     "type": "library",
     "require": {
         "ext-json": "*",
-        "mix/guzzle": "^2.2"
+        "guzzlehttp/guzzle": "^7.0"
     },
     "require-dev": {
 
